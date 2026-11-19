@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KSB LABS</string>
+    <string name="app_subtitle">VIDEO STUDIO</string>
+    <string name="tab_editor">Editor</string>
+    <string name="tab_studio">Quiz Studio</string>
+    <string name="question_table">Question Table</string>
+    <string name="create_video_btn">Create &amp; Download Video (with voice)</string>
+    <string name="bulk_import">Bulk Import</string>
+    <string name="delete_all">Delete All</string>
+    <string name="cd_app_logo">KSB LABS Video Studio Logo</string>
+    <string name="cd_toggle_theme">Switch Dark or Light mode</string>
+</resources>

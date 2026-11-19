@@ -1,0 +1,8 @@
+{
+  "name": "KSB LABS",
+  "description": "General knowledge quiz table editor with 27 languages, voice characters, fonts, backgrounds, dark mode, and one-click MP4 video studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
